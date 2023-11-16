@@ -1,0 +1,78 @@
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\bin\Release\3dQRA.exe.config
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\obj\Release\_3dQRA.Form1.resources
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\obj\Release\_3dQRA.Form2.resources
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\obj\Release\_3dQRA.Properties.Resources.resources
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\obj\Release\3dQRA.csproj.GenerateResource.Cache
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\bin\Release\3dQRA.exe.manifest
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\bin\Release\3dQRA.application
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\bin\Release\3dQRA.exe
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\bin\Release\3dQRA.pdb
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\obj\Release\3dQRA.exe.manifest
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\obj\Release\3dQRA.application
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\obj\Release\3dQRA.exe
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\obj\Release\3dQRA.pdb
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\obj\Release\3dQRA.csprojResolveAssemblyReference.cache
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\obj\Release\_3dQRA.UI.Form3.resources
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\bin\Release\3dQRA.exe.config
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\obj\Release\3dQRA.exe
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\obj\Release\3dQRA.pdb
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\bin\Release\3dQRA.mdf
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\bin\Release\3dQRA_log.ldf
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\bin\Release\3dQRA.exe.manifest
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\bin\Release\3dQRA.application
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\bin\Release\3dQRA.exe
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\bin\Release\3dQRA.pdb
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\obj\Release\_3dQRA.Form1.resources
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\obj\Release\_3dQRA.Form2.resources
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\obj\Release\_3dQRA.Properties.Resources.resources
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\obj\Release\_3dQRA.UI.Form3.resources
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\obj\Release\3dQRA.csproj.GenerateResource.Cache
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\obj\Release\3dQRA.exe.manifest
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\obj\Release\3dQRA.application
+C:\Users\sanyuan115\Desktop\3dQRA2.0\bin\Release\3dQRA.exe.config
+C:\Users\sanyuan115\Desktop\3dQRA2.0\obj\Release\3dQRA.exe
+C:\Users\sanyuan115\Desktop\3dQRA2.0\obj\Release\3dQRA.pdb
+C:\Users\sanyuan115\Desktop\3dQRA2.0\bin\Release\3dQRA.exe.manifest
+C:\Users\sanyuan115\Desktop\3dQRA2.0\bin\Release\3dQRA.application
+C:\Users\sanyuan115\Desktop\3dQRA2.0\bin\Release\3dQRA.exe
+C:\Users\sanyuan115\Desktop\3dQRA2.0\bin\Release\3dQRA.pdb
+C:\Users\sanyuan115\Desktop\3dQRA2.0\obj\Release\_3dQRA.Form1.resources
+C:\Users\sanyuan115\Desktop\3dQRA2.0\obj\Release\_3dQRA.Form2.resources
+C:\Users\sanyuan115\Desktop\3dQRA2.0\obj\Release\_3dQRA.Properties.Resources.resources
+C:\Users\sanyuan115\Desktop\3dQRA2.0\obj\Release\_3dQRA.UI.Form3.resources
+C:\Users\sanyuan115\Desktop\3dQRA2.0\obj\Release\3dQRA.csproj.GenerateResource.Cache
+C:\Users\sanyuan115\Desktop\3dQRA2.0\obj\Release\3dQRA.exe.manifest
+C:\Users\sanyuan115\Desktop\3dQRA2.0\obj\Release\3dQRA.application
+C:\Users\sanyuan115\Desktop\3dQRA2.0\obj\Release\3dQRA.csprojResolveAssemblyReference.cache
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\bin\Release\3dQRA.exe.config
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Release\3dQRA.exe
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Release\3dQRA.pdb
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Release\3dQRA.csprojResolveAssemblyReference.cache
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Release\_3dQRA.Form1.resources
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Release\_3dQRA.Form2.resources
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Release\_3dQRA.UI.Form3.resources
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Release\_3dQRA.Form4.resources
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Release\3dQRA.csproj.GenerateResource.Cache
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\bin\Release\3dQRA.exe.config
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\3dQRA.exe
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\3dQRA.pdb
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\3dQRA.csprojResolveAssemblyReference.cache
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\_3dQRA.Form1.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\_3dQRA.UI.Form10.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\_3dQRA.UI.Form18.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\_3dQRA.Form2.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\_3dQRA.Properties.Resources.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\_3dQRA.UI.Form3.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\_3dQRA.Form11.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\_3dQRA.Form12.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\_3dQRA.Form13.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\_3dQRA.Form14.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\_3dQRA.Form15.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\_3dQRA.Form16.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\_3dQRA.Form17.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\_3dQRA.Form4.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\_3dQRA.Form5.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\_3dQRA.Form6.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\_3dQRA.Form7.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\_3dQRA.Form8.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Release\3dQRA.csproj.GenerateResource.Cache

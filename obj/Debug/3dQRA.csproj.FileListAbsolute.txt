@@ -1,0 +1,216 @@
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\bin\Debug\3dQRA.exe.config
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\bin\Debug\3dQRA.exe
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\bin\Debug\3dQRA.pdb
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\obj\Debug\3dQRA.csprojResolveAssemblyReference.cache
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\obj\Debug\_3dQRA.Properties.Resources.resources
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\obj\Debug\3dQRA.csproj.GenerateResource.Cache
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\obj\Debug\3dQRA.exe
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\obj\Debug\3dQRA.pdb
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\obj\Debug\_3dQRA.Form1.resources
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA\obj\Debug\_3dQRA.Form2.resources
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\bin\Debug\3dQRA.exe.config
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\obj\Debug\3dQRA.exe
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\obj\Debug\3dQRA.pdb
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\bin\Debug\3dQRA.exe.manifest
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\bin\Debug\3dQRA.application
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\bin\Debug\3dQRA.exe
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\bin\Debug\3dQRA.pdb
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\obj\Debug\3dQRA.csprojResolveAssemblyReference.cache
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\obj\Debug\_3dQRA.Form1.resources
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\obj\Debug\_3dQRA.Form2.resources
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\obj\Debug\_3dQRA.Properties.Resources.resources
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\obj\Debug\_3dQRA.UI.Form3.resources
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\obj\Debug\3dQRA.csproj.GenerateResource.Cache
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\obj\Debug\3dQRA.exe.manifest
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\obj\Debug\3dQRA.application
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\bin\Debug\3dQRA.mdf
+C:\Users\sanyuan115\Desktop\QQRRAA\3dQRA\bin\Debug\3dQRA_log.ldf
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\bin\Debug\3dQRA.exe.config
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Debug\3dQRA.exe
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Debug\3dQRA.pdb
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Debug\3dQRA.csprojResolveAssemblyReference.cache
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Debug\_3dQRA.Form1.resources
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Debug\_3dQRA.Form2.resources
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Debug\_3dQRA.Properties.Resources.resources
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Debug\_3dQRA.UI.Form3.resources
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Debug\3dQRA.csproj.GenerateResource.Cache
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\bin\Debug\3dQRA.exe.manifest
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\bin\Debug\3dQRA.application
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\bin\Debug\3dQRA.exe
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\bin\Debug\3dQRA.pdb
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Debug\3dQRA.exe.manifest
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Debug\3dQRA.application
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Debug\_3dQRA.Form4.resources
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Debug\_3dQRA.UI.Form10.resources
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Debug\_3dQRA.Form5.resources
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Debug\_3dQRA.Form6.resources
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Debug\_3dQRA.Form7.resources
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA2.0\obj\Debug\_3dQRA.Form8.resources
+C:\Users\kuail\Desktop\3dQRA\3dQRA2.0\bin\Debug\3dQRA.exe.config
+C:\Users\kuail\Desktop\3dQRA\3dQRA2.0\obj\Debug\3dQRA.exe
+C:\Users\kuail\Desktop\3dQRA\3dQRA2.0\obj\Debug\3dQRA.pdb
+C:\Users\kuail\Desktop\3dQRA\3dQRA2.0\bin\Debug\3dQRA.exe.manifest
+C:\Users\kuail\Desktop\3dQRA\3dQRA2.0\bin\Debug\3dQRA.application
+C:\Users\kuail\Desktop\3dQRA\3dQRA2.0\bin\Debug\3dQRA.exe
+C:\Users\kuail\Desktop\3dQRA\3dQRA2.0\bin\Debug\3dQRA.pdb
+C:\Users\kuail\Desktop\3dQRA\3dQRA2.0\obj\Debug\3dQRA.csprojResolveAssemblyReference.cache
+C:\Users\kuail\Desktop\3dQRA\3dQRA2.0\obj\Debug\_3dQRA.Form1.resources
+C:\Users\kuail\Desktop\3dQRA\3dQRA2.0\obj\Debug\_3dQRA.UI.Form10.resources
+C:\Users\kuail\Desktop\3dQRA\3dQRA2.0\obj\Debug\_3dQRA.Form2.resources
+C:\Users\kuail\Desktop\3dQRA\3dQRA2.0\obj\Debug\_3dQRA.Properties.Resources.resources
+C:\Users\kuail\Desktop\3dQRA\3dQRA2.0\obj\Debug\_3dQRA.UI.Form3.resources
+C:\Users\kuail\Desktop\3dQRA\3dQRA2.0\obj\Debug\_3dQRA.Form4.resources
+C:\Users\kuail\Desktop\3dQRA\3dQRA2.0\obj\Debug\_3dQRA.Form5.resources
+C:\Users\kuail\Desktop\3dQRA\3dQRA2.0\obj\Debug\_3dQRA.Form6.resources
+C:\Users\kuail\Desktop\3dQRA\3dQRA2.0\obj\Debug\_3dQRA.Form7.resources
+C:\Users\kuail\Desktop\3dQRA\3dQRA2.0\obj\Debug\_3dQRA.Form8.resources
+C:\Users\kuail\Desktop\3dQRA\3dQRA2.0\obj\Debug\3dQRA.csproj.GenerateResource.Cache
+C:\Users\kuail\Desktop\3dQRA\3dQRA2.0\obj\Debug\3dQRA.exe.manifest
+C:\Users\kuail\Desktop\3dQRA\3dQRA2.0\obj\Debug\3dQRA.application
+E:\Project\3dQRA2.0\bin\Debug\3dQRA.exe.config
+E:\Project\3dQRA2.0\obj\Debug\3dQRA.exe
+E:\Project\3dQRA2.0\obj\Debug\3dQRA.pdb
+E:\Project\3dQRA2.0\bin\Debug\3dQRA.exe.manifest
+E:\Project\3dQRA2.0\bin\Debug\3dQRA.application
+E:\Project\3dQRA2.0\bin\Debug\3dQRA.exe
+E:\Project\3dQRA2.0\bin\Debug\3dQRA.pdb
+E:\Project\3dQRA2.0\obj\Debug\3dQRA.csprojResolveAssemblyReference.cache
+E:\Project\3dQRA2.0\obj\Debug\_3dQRA.Form1.resources
+E:\Project\3dQRA2.0\obj\Debug\_3dQRA.UI.Form10.resources
+E:\Project\3dQRA2.0\obj\Debug\_3dQRA.Form2.resources
+E:\Project\3dQRA2.0\obj\Debug\_3dQRA.Properties.Resources.resources
+E:\Project\3dQRA2.0\obj\Debug\_3dQRA.UI.Form3.resources
+E:\Project\3dQRA2.0\obj\Debug\_3dQRA.Form4.resources
+E:\Project\3dQRA2.0\obj\Debug\_3dQRA.Form5.resources
+E:\Project\3dQRA2.0\obj\Debug\_3dQRA.Form6.resources
+E:\Project\3dQRA2.0\obj\Debug\_3dQRA.Form7.resources
+E:\Project\3dQRA2.0\obj\Debug\_3dQRA.Form8.resources
+E:\Project\3dQRA2.0\obj\Debug\3dQRA.csproj.GenerateResource.Cache
+E:\Project\3dQRA2.0\obj\Debug\3dQRA.exe.manifest
+E:\Project\3dQRA2.0\obj\Debug\3dQRA.application
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\bin\Debug\3dQRA.exe.config
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\bin\Debug\3dQRA.exe.manifest
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\bin\Debug\3dQRA.application
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\bin\Debug\3dQRA.exe
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\bin\Debug\3dQRA.pdb
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form1.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\_3dQRA.UI.Form10.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\_3dQRA.UI.Form18.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form2.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\_3dQRA.Properties.Resources.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\_3dQRA.UI.Form3.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form11.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form12.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form13.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form14.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form15.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form16.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form17.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form4.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form5.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form6.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form7.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form8.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\3dQRA.csproj.GenerateResource.Cache
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\3dQRA.exe.manifest
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\3dQRA.application
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\3dQRA.exe
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA2.0\obj\Debug\3dQRA.pdb
+E:\Project\资料80\3dQRA2.0\bin\Debug\3dQRA.exe.config
+E:\Project\资料80\3dQRA2.0\bin\Debug\3dQRA.exe.manifest
+E:\Project\资料80\3dQRA2.0\bin\Debug\3dQRA.application
+E:\Project\资料80\3dQRA2.0\bin\Debug\3dQRA.exe
+E:\Project\资料80\3dQRA2.0\bin\Debug\3dQRA.pdb
+E:\Project\资料80\3dQRA2.0\bin\Debug\DrawPointDemo.dll
+E:\Project\资料80\3dQRA2.0\obj\Debug\3dQRA.csprojResolveAssemblyReference.cache
+E:\Project\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form1.resources
+E:\Project\资料80\3dQRA2.0\obj\Debug\_3dQRA.UI.Form10.resources
+E:\Project\资料80\3dQRA2.0\obj\Debug\_3dQRA.UI.Form18.resources
+E:\Project\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form2.resources
+E:\Project\资料80\3dQRA2.0\obj\Debug\_3dQRA.Properties.Resources.resources
+E:\Project\资料80\3dQRA2.0\obj\Debug\_3dQRA.UI.Form3.resources
+E:\Project\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form11.resources
+E:\Project\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form12.resources
+E:\Project\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form13.resources
+E:\Project\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form14.resources
+E:\Project\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form15.resources
+E:\Project\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form16.resources
+E:\Project\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form17.resources
+E:\Project\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form4.resources
+E:\Project\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form5.resources
+E:\Project\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form6.resources
+E:\Project\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form7.resources
+E:\Project\资料80\3dQRA2.0\obj\Debug\_3dQRA.Form8.resources
+E:\Project\资料80\3dQRA2.0\obj\Debug\3dQRA.csproj.GenerateResource.Cache
+E:\Project\资料80\3dQRA2.0\obj\Debug\3dQRA.exe.manifest
+E:\Project\资料80\3dQRA2.0\obj\Debug\3dQRA.application
+E:\Project\资料80\3dQRA2.0\obj\Debug\3dQRA.exe
+E:\Project\资料80\3dQRA2.0\obj\Debug\3dQRA.pdb
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\bin\Debug\3dQRA.exe.config
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\bin\Debug\3dQRA.exe.manifest
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\bin\Debug\3dQRA.application
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\bin\Debug\3dQRA.exe
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\bin\Debug\3dQRA.pdb
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\_3dQRA.Form1.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\_3dQRA.UI.Form10.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\_3dQRA.UI.Form18.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\_3dQRA.Form2.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\_3dQRA.Properties.Resources.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\_3dQRA.UI.Form3.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\_3dQRA.Form11.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\_3dQRA.Form12.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\_3dQRA.Form13.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\_3dQRA.Form14.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\_3dQRA.Form15.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\_3dQRA.Form16.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\_3dQRA.Form17.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\_3dQRA.Form4.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\_3dQRA.Form5.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\_3dQRA.Form6.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\_3dQRA.Form7.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\_3dQRA.Form8.resources
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\3dQRA.csproj.GenerateResource.Cache
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\3dQRA.exe.manifest
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\3dQRA.application
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\3dQRA.exe
+D:\Project\VS2012 Project\2016 Code\资料80\3dQRA3.0\obj\Debug\3dQRA.pdb
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\bin\Debug\3dQRA.exe.config
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\3dQRA.exe
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\3dQRA.pdb
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\bin\Debug\3dQRA.exe.manifest
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\bin\Debug\3dQRA.application
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\bin\Debug\3dQRA.exe
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\bin\Debug\3dQRA.pdb
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\3dQRA.csprojResolveAssemblyReference.cache
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\_3dQRA.Form1.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\_3dQRA.UI.Form10.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\_3dQRA.UI.Form18.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\_3dQRA.Form2.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\_3dQRA.Properties.Resources.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\_3dQRA.UI.Form3.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\_3dQRA.Form11.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\_3dQRA.Form12.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\_3dQRA.Form13.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\_3dQRA.Form14.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\_3dQRA.Form15.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\_3dQRA.Form16.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\_3dQRA.Form17.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\_3dQRA.Form4.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\_3dQRA.Form5.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\_3dQRA.Form6.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\_3dQRA.Form7.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\_3dQRA.Form8.resources
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\3dQRA.csproj.GenerateResource.Cache
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\3dQRA.exe.manifest
+C:\Users\sanyuan115\Documents\Tencent Files\916436517\FileRecv\3dQRA3.0(1)\3dQRA3.0\obj\Debug\3dQRA.application
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA3.0\bin\Debug\3dQRA.exe.config
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA3.0\obj\Debug\3dQRA.exe
+C:\Users\sanyuan115\Desktop\3dQRA\3dQRA3.0\obj\Debug\3dQRA.pdb
+D:\办公室电脑备份\桌面\3dQRA\3dQRA3.0\bin\Debug\3dQRA.exe.config
+D:\办公室电脑备份\桌面\3dQRA\3dQRA3.0\obj\Debug\3dQRA.exe
+D:\办公室电脑备份\桌面\3dQRA\3dQRA3.0\obj\Debug\3dQRA.pdb
+C:\3dQRA3.0\bin\Debug\3dQRA.exe.config
+C:\3dQRA3.0\obj\Debug\Interop.ACTIVEXLib.dll
+C:\3dQRA3.0\obj\Debug\3dQRA.csproj.ResolveComReference.cache
+C:\3dQRA3.0\obj\Debug\3dQRA.exe
+C:\3dQRA3.0\obj\Debug\3dQRA.pdb
